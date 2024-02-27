@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=3.3V_RPI Pin=JP5-1
+Removed Pin From Net: NetName=5V Pin=JP5-2
+Removed Pin From Net: NetName=GPIO2 Pin=JP5-3
+Removed Pin From Net: NetName=5V Pin=JP5-4
+Removed Pin From Net: NetName=GPIO3 Pin=JP5-5
+Removed Pin From Net: NetName=GND Pin=JP5-6
+Removed Pin From Net: NetName=GPIO4 Pin=JP5-7
+Removed Pin From Net: NetName=GPIO14 Pin=JP5-8
+Removed Pin From Net: NetName=GND Pin=JP5-9
+Removed Pin From Net: NetName=GPIO15 Pin=JP5-10
+Removed Pin From Net: NetName=GPIO17 Pin=JP5-11
+Removed Pin From Net: NetName=GPIO18 Pin=JP5-12
+Removed Pin From Net: NetName=GPIO27 Pin=JP5-13
+Removed Pin From Net: NetName=GND Pin=JP5-14
+Removed Pin From Net: NetName=GPIO22 Pin=JP5-15
+Removed Pin From Net: NetName=GPIO23 Pin=JP5-16
+Removed Pin From Net: NetName=3.3V_RPI Pin=JP5-17
+Removed Pin From Net: NetName=GPIO24 Pin=JP5-18
+Removed Pin From Net: NetName=GPIO10 Pin=JP5-19
+Removed Pin From Net: NetName=GND Pin=JP5-20
+Removed Pin From Net: NetName=GPIO9 Pin=JP5-21
+Removed Pin From Net: NetName=GPIO25 Pin=JP5-22
+Removed Pin From Net: NetName=GPIO11 Pin=JP5-23
+Removed Pin From Net: NetName=GPIO8 Pin=JP5-24
+Removed Pin From Net: NetName=GND Pin=JP5-25
+Removed Pin From Net: NetName=GPIO7 Pin=JP5-26
+Removed Pin From Net: NetName=ID_SD Pin=JP5-27
+Removed Pin From Net: NetName=ID_SC Pin=JP5-28
+Removed Pin From Net: NetName=GPIO5 Pin=JP5-29
+Removed Pin From Net: NetName=GND Pin=JP5-30
+Removed Pin From Net: NetName=GPIO6 Pin=JP5-31
+Removed Pin From Net: NetName=GPIO12 Pin=JP5-32
+Removed Pin From Net: NetName=GPIO13 Pin=JP5-33
+Removed Pin From Net: NetName=GND Pin=JP5-34
+Removed Pin From Net: NetName=GPIO19 Pin=JP5-35
+Removed Pin From Net: NetName=GPIO16 Pin=JP5-36
+Removed Pin From Net: NetName=GPIO26 Pin=JP5-37
+Removed Pin From Net: NetName=GPIO20 Pin=JP5-38
+Removed Pin From Net: NetName=GND Pin=JP5-39
+Removed Pin From Net: NetName=GPIO21 Pin=JP5-40
+Removed Member From Class: ClassName=Main Member=JP5
+Change Component Designator: OldDesignator=JP? NewDesignator=JP4
+Added Component: Designator=JP3(HDR-8X2)
+Add component (AddParameter): Name = "BOM??"; Value = "8*2P???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH1_P Pin=H1-P
+Added Pin To Net: NetName=NetH1_P Pin=H2-P
+Added Pin To Net: NetName=NetH1_P Pin=H3-P
+Added Pin To Net: NetName=NetH1_P Pin=H4-P
+Added Pin To Net: NetName=GND Pin=JP3-1
+Added Pin To Net: NetName=GPIO7 Pin=JP3-2
+Added Pin To Net: NetName=ID_SD Pin=JP3-3
+Added Pin To Net: NetName=ID_SC Pin=JP3-4
+Added Pin To Net: NetName=GPIO5 Pin=JP3-5
+Added Pin To Net: NetName=GND Pin=JP3-6
+Added Pin To Net: NetName=GPIO6 Pin=JP3-7
+Added Pin To Net: NetName=GPIO12 Pin=JP3-8
+Added Pin To Net: NetName=GPIO13 Pin=JP3-9
+Added Pin To Net: NetName=GND Pin=JP3-10
+Added Pin To Net: NetName=GPIO19 Pin=JP3-11
+Added Pin To Net: NetName=GPIO16 Pin=JP3-12
+Added Pin To Net: NetName=GPIO26 Pin=JP3-13
+Added Pin To Net: NetName=GPIO20 Pin=JP3-14
+Added Pin To Net: NetName=GND Pin=JP3-15
+Added Pin To Net: NetName=GPIO21 Pin=JP3-16
+Change Net Name : Old Net Name=NetJP?_5 New Net Name=NetJP4_5
+Added Member To Class: ClassName=Main Member=Component JP3 Header 8X2

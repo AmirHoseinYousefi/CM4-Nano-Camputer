@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=WL_nDis Pin=JP3-1
+Removed Pin From Net: NetName=GND Pin=JP3-2
+Removed Pin From Net: NetName=BT_nDis Pin=JP3-3
+Removed Pin From Net: NetName=RUN_PG Pin=JP4-1
+Removed Pin From Net: NetName=GND Pin=JP4-2
+Removed Pin From Net: NetName=GLOBAL_EN Pin=JP4-3
+Removed Pin From Net: NetName=GND Pin=JP7-1
+Removed Pin From Net: NetName=nRPIBOOT Pin=JP7-2
+Removed Pin From Net: NetName=GND Pin=JP7-3
+Removed Pin From Net: NetName=EEPROM_nWP Pin=JP7-4
+Removed Pin From Net: NetName=AIN0 Pin=JP7-5
+Removed Pin From Net: NetName=AIN1 Pin=JP7-6
+Removed Pin From Net: NetName=GND Pin=JP7-7
+Removed Pin From Net: NetName=SYNC_IN Pin=JP7-8
+Removed Pin From Net: NetName=SYNC_OUT Pin=JP7-9
+Removed Pin From Net: NetName=GND Pin=JP7-10
+Removed Pin From Net: NetName=TV_OUT Pin=JP7-11
+Removed Pin From Net: NetName=GND Pin=JP7-12
+Removed Pin From Net: NetName=GLOBAL_EN Pin=JP7-14
+Removed Member From Class: ClassName=Main Member=JP3
+Removed Member From Class: ClassName=Main Member=JP4
+Removed Member From Class: ClassName=Main Member=JP7
+Added Component: Designator=H1(P3.2C)
+Added Component: Designator=H2(P3.2C)
+Added Component: Designator=H3(P3.2C)
+Added Component: Designator=H4(P3.2C)
+Added Component: Designator=JP?(HDR-6X2)
+Add component (AddParameter): Name = "BOM??"; Value = "6*2P???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "???"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH1_P Pin=H1-P
+Added Pin To Net: NetName=SHIELD Pin=H1-P
+Added Pin To Net: NetName=NetH1_P Pin=H2-P
+Added Pin To Net: NetName=SHIELD Pin=H2-P
+Added Pin To Net: NetName=NetH1_P Pin=H3-P
+Added Pin To Net: NetName=SHIELD Pin=H3-P
+Added Pin To Net: NetName=NetH1_P Pin=H4-P
+Added Pin To Net: NetName=SHIELD Pin=H4-P
+Added Pin To Net: NetName=GND Pin=JP?-1
+Added Pin To Net: NetName=nRPIBOOT Pin=JP?-2
+Added Pin To Net: NetName=GND Pin=JP?-3
+Added Pin To Net: NetName=EEPROM_nWP Pin=JP?-4
+Added Pin To Net: NetName=GLOBAL_EN Pin=JP?-6
+Added Pin To Net: NetName=WL_nDis Pin=JP?-7
+Added Pin To Net: NetName=GLOBAL_EN Pin=JP?-8
+Added Pin To Net: NetName=GND Pin=JP?-9
+Added Pin To Net: NetName=GND Pin=JP?-10
+Added Pin To Net: NetName=BT_nDis Pin=JP?-11
+Added Pin To Net: NetName=RUN_PG Pin=JP?-12
+Added Pin To Net: NetName=NetJP?_5 Pin=JP?-5
+Added Pin To Net: NetName=NetJP?_5 Pin=U5-4
+Added Net: Name=NetJP?_5
+Added Member To Class: ClassName=Main Member=Component H1 Round Pad
+Added Member To Class: ClassName=Main Member=Component H2 Round Pad
+Added Member To Class: ClassName=Main Member=Component H3 Round Pad
+Added Member To Class: ClassName=Main Member=Component H4 Round Pad
+Added Member To Class: ClassName=Main Member=Component JP? Header 6X2

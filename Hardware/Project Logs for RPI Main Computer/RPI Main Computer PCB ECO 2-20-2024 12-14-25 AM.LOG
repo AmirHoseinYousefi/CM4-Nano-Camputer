@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetH1_P Pin=H1-P
+Added Pin To Net: NetName=NetH1_P Pin=H2-P
+Added Pin To Net: NetName=NetH1_P Pin=H3-P
+Added Pin To Net: NetName=NetH1_P Pin=H4-P
+Added Pin To Net: NetName=DS3231_32kHz Pin=R24-1
+Added Pin To Net: NetName=DS3231-INT Pin=R24-2

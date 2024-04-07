@@ -1,7 +1,0 @@
-Removed Member From Class: ClassName=Main Member=R15
-Change Net Name : Old Net Name=NetH1_P New Net Name=SHIELD
-Added Pin To Net: NetName=NetH1_P Pin=H1-P
-Added Pin To Net: NetName=NetH1_P Pin=H2-P
-Added Pin To Net: NetName=NetH1_P Pin=H3-P
-Added Pin To Net: NetName=NetH1_P Pin=H4-P
-Added Net: Name=NetH1_P

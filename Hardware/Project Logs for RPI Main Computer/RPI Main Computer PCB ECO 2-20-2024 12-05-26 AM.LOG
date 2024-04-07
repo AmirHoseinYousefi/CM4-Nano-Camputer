@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=5V Pin=JP2-1
-Removed Pin From Net: NetName=12V Pin=JP2-4
-Added Pin To Net: NetName=NetH1_P Pin=H1-P
-Added Pin To Net: NetName=NetH1_P Pin=H2-P
-Added Pin To Net: NetName=NetH1_P Pin=H3-P
-Added Pin To Net: NetName=NetH1_P Pin=H4-P
-Added Pin To Net: NetName=12V Pin=JP2-1
-Added Pin To Net: NetName=5V Pin=JP2-4
-Added Member To Class: ClassName=Main Member=Component R1 10K
